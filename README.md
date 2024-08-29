@@ -10,10 +10,9 @@ O objetivo principal deste projeto é criar dashboards interativos que respondam
 
 ## Ferramentas Utilizadas
 
-- **Python**
-- **Pandas** para manipulação e análise de dados
+- **SQL**
 - **Dashboards** para visualização de dados
-- **Jupyter Notebook** para desenvolvimento e análise exploratória
+- **Base de dados** Extraído do site https://basedosdados.org/dataset/d0b61e1c-2ff2-43e7-b32f-5a054ba9b688?table=6e763e07-9b83-487e-9135-fca7872b1f16
 
 ## Fonte de Dados
 
