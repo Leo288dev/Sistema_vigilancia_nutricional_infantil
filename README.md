@@ -1,3 +1,4 @@
+
 # Dashboard 1
 ## Análise de Dados de Saúde Infantil no Brasil
 
@@ -52,7 +53,7 @@ O objetivo deste projeto é fornecer uma ferramenta visual que facilite a análi
 
 - **SQL através do BIG QUERY do GCP**
 - **Dashboards** para visualização de dados
-- **Base de dados** Extraído do site:
+- **Base de dados** Extraído do site: https://basedosdados.org/dataset/f7df4160-7a6f-4658-a287-3a73d412ed10?table=707b3dee-88a2-424d-a790-7216eb431c78
 
 ### Fonte de Dados
 
@@ -73,7 +74,9 @@ As perguntas de negócios que serão respondidas por este projeto incluem, mas n
 1. Quais são as principais culturas agrícolas de maior produção e quais estados têm o maior volume?
 2. Houve crescimento da produção das culturas agrícolas durante a serie histórica apresentada pelo gráfico ?
 3. Quais culturas apresentam maior crescimento na produção durante a última década de 2011 a 2021 e seus respectivos estados produtores?
-
+4. Quais são as principais culturas agrícolas de maior produção e quais estados têm o maior volume?
+5. Quais são as principais culturas agrícolas de maior produção e quais estados têm o maior volume?
+6. Quais são as principais culturas agrícolas de maior produção e quais estados têm o maior volume?
 
 ### Links de Acesso
 Board:
